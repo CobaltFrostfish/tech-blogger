@@ -19,6 +19,7 @@ The Tech Blogger is an app for IT specialists, Dev's, and all other thech profes
 * JAWSDB
 * Handlebars
 * CSS
+* MVC
 * MyBrain
 
 
